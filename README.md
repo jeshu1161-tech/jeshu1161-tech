@@ -132,8 +132,8 @@ print(me.motto())
 
 Work Experience
 
-<details>
-<summary><b>ðŸ« Prathyusha Engineering College â€” Student Researcher &amp; Project Developer | 2025 â€“ Present | Tamil Nadu, India</b></summary>
+<details >
+<summary>« Prathyusha Engineering College ” Student Researcher &amp; Project Developer | 2025  Present | Tamil Nadu, India</b></summary>
 
 <br/>
 
@@ -143,10 +143,10 @@ Work Experience
 > ![Networking](https://img.shields.io/badge/Networking-0078D6?style=flat-square&logo=cisco&logoColor=white)
 > ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
-- ðŸ” Developed **T3 Security**, a cybersecurity-focused project addressing threat awareness, system protection strategies, and real-world security concepts within a team environment.
-- ðŸ—ºï¸ Built **Route X**, a route management and optimization tool applying algorithmic problem-solving and collaborative software development practices.
-- ðŸ¤ Collaborated with peers on project planning, testing, and implementation, consistently delivering functional outcomes within deadlines.
-- ðŸ“š Actively pursuing hands-on learning in penetration testing, Linux administration, and network security alongside academic coursework.
+- Developed **T3 Security**, a cybersecurity-focused project addressing threat awareness, system protection strategies, and real-world security concepts within a team environment.
+- ¸ Built **Route X**, a route management and optimization tool applying algorithmic problem-solving and collaborative software development practices.
+-  Collaborated with peers on project planning, testing, and implementation, consistently delivering functional outcomes within deadlines.
+-  Actively pursuing hands-on learning in penetration testing, Linux administration, and network security alongside academic coursework.
 
 </details>
 
@@ -158,8 +158,8 @@ Work Experience
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| ðŸ—ºï¸ [**Route X**](https://github.com/jeshu1161-tech) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Route management & optimization system Â· Applied graph-based problem-solving Â· Team collaboration across planning, build, and testing phases |
-| ðŸ›¡ï¸ [**T3 Security**](https://github.com/jeshu1161-tech) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Cybersecurity-focused project Â· Covers threat awareness & system protection Â· Hands-on security concepts implementation |
+**Route X**(https://github.com/jeshu1161-tech) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Route management & optimization system Â· Applied graph-based problem-solving Â· Team collaboration across planning, build, and testing phases 
+**T3 Security**](https://github.com/jeshu1161-tech) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Cybersecurity-focused project Â· Covers threat awareness & system protection Â· Hands-on security concepts implementation |
 
 </div>
 
@@ -169,14 +169,14 @@ Work Experience
 
 <div align="center">
 
-| ðŸŽ–ï¸ | Achievement | Details |
+|  | Achievement | Details |
 |:--:|:------------|:--------|
-| ðŸŽ“ | **B.E. CSE (Cyber Security)** | Enrolled 2025 @ Prathyusha Engineering College â€” specialized cybersecurity degree track |
-| ðŸ | **Python Programming** | Proficient in Python with focus on scripting, automation, and security tooling |
-| ðŸ§ | **Linux Practitioner** | Hands-on experience with Linux systems administration and CLI tooling |
-| ðŸ” | **Cybersecurity Fundamentals** | Strong foundation in networking, cryptography, and security principles |
-| ðŸ§  | **Analytical Problem Solving** | Consistently applies structured reasoning to debugging and systems challenges |
-| ðŸ¤ | **Team Collaboration** | Delivered 2+ academic projects through effective cross-functional teamwork |
+|  | **B.E. CSE (Cyber Security)** | Enrolled 2025 @ Prathyusha Engineering College â€” specialized cybersecurity degree track |
+| | **Python Programming** | Proficient in Python with focus on scripting, automation, and security tooling |
+|  | **Linux Practitioner** | Hands-on experience with Linux systems administration and CLI tooling |
+|  | **Cybersecurity Fundamentals** | Strong foundation in networking, cryptography, and security principles |
+|   | **Analytical Problem Solving** | Consistently applies structured reasoning to debugging and systems challenges |
+| | **Team Collaboration** | Delivered 2+ academic projects through effective cross-functional teamwork |
 
 </div>
 
@@ -188,7 +188,7 @@ Work Experience
 
 | Degree | Institution | Year | Status |
 |:------:|:-----------:|:----:|:------:|
-| B.E. â€“ Computer Science & Engineering (Cyber Security) | Prathyusha Engineering College, Tamil Nadu | 2025 â€“ Present | ðŸŸ¢ Ongoing |
+| B.E. Computer Science & Engineering (Cyber Security) | Prathyusha Engineering College, Tamil Nadu | 2025  Present |  Ongoing |
 
 </div>
 
@@ -197,14 +197,14 @@ Work Experience
  Currently Learning
 
 ```
-ðŸ” Penetration Testing     â†’  Reconnaissance Â· Scanning Â· Exploitation Â· Post-Exploitation
-ðŸŒ Network Security        â†’  TCP/IP Deep Dive Â· Firewall Config Â· IDS/IPS Â· VPN
-ðŸ§ Linux Administration    â†’  Shell Scripting Â· Process Management Â· Privilege Escalation
-ðŸ•µï¸ Digital Forensics       â†’  File Carving Â· Log Analysis Â· Memory Forensics Â· Evidence Collection
-ðŸ§© CTF Challenges          â†’  HackTheBox Â· TryHackMe Â· PicoCTF Â· OverTheWire
-ðŸ Python for Security     â†’  Socket Programming Â· Automation Â· Exploit Scripting Â· Tool Dev
-ðŸ” Cryptography            â†’  Symmetric & Asymmetric Encryption Â· Hashing Â· PKI Â· SSL/TLS
-ðŸ›¡ï¸ OWASP Top 10            â†’  Injection Â· Broken Auth Â· XSS Â· IDOR Â· Security Misconfig
+ Penetration Testing      Reconnaissance · Scanning · Exploitation · Post-Exploitation
+ Network Security          TCP/IP Deep Dive · Firewall Config · IDS/IPS · VPN
+ Linux Administration     Shell Scripting · Process Management · Privilege Escalation
+ Digital Forensics         File Carving · Log Analysis · Memory Forensics · Evidence Collection
+CTF Challenges            HackTheBox · TryHackMe · PicoCTF · OverTheWire
+Python for Security       Socket Programming .automation · Exploit Scripting · Tool D
+ Cryptography              Symmetric & Asymmetric Encryption · Hashing · PKI · SSL/TLS
+ OWASP Top 10              Injection · Broken Auth · XSS · IDOR · Security Misconfig
 ```
 
 ---
@@ -228,7 +228,7 @@ Work Experience
 <br/>
 
 <div align="center">
-  <i>"The quieter you become, the more you can hear â€” and in cybersecurity, listening is everything. ðŸ”‡ðŸ›¡ï¸"</i>
+  <i>"The quieter you become, the more you can hear ” and in cybersecurity, listening is everything"</i>
 </div>
 
 <br/>
