@@ -91,8 +91,34 @@ TECH STACKS AND SKILLS
 [Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-37474F?style=flat-square&logo=gnuprivacyguard&logoColor=white)
 
 ---
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeshu1161-tech&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jeshu1161-tech&theme=tokyonight"/>
+
+</div>
 
 
+
+---
+## Certifications
+
+- Cisco Networking Basics
+- Cisco Introduction to Cybersecurity
+- TryHackMe Learning Paths
+  
+---
+SECURITY PLATFORMS
+HackTheBox
+TryHackMe
+---
+CONTRIBUTION SNAKE
+![Snake animation](https://github.com/jeshu1161-tech/jeshu1161-tech/blob/output/github-contribution-grid-snake.svg)
+
+---
  Trophy Wall
 
 <div align="center">
@@ -101,7 +127,7 @@ TECH STACKS AND SKILLS
 
 ---
 
-Work Experience
+PROJECT AND SKILL EXPERIENCE
 
 <details >
 <summary>« Prathyusha Engineering College ” Student Researcher &amp; Project Developer | 2025  Present | Tamil Nadu, India</b></summary>
@@ -129,8 +155,8 @@ Work Experience
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-**Route X**(https://github.com/jeshu1161-tech) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Route management & optimization system Â· Applied graph-based problem-solving Â· Team collaboration across planning, build, and testing phases 
-**T3 Security**](https://github.com/jeshu1161-tech) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Cybersecurity-focused project Â· Covers threat awareness & system protection Â· Hands-on security concepts implementation |
+[Route X](https://github.com/jeshu1161-tech) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Route management & optimization system Â· Applied graph-based problem-solving Â· Team collaboration across planning, build, and testing phases 
+[T3 Security](https://github.com/jeshu1161-tech) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Cybersecurity-focused project Â· Covers threat awareness & system protection Â· Hands-on security concepts implementation |
 
 </div>
 
