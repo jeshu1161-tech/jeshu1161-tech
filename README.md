@@ -111,10 +111,10 @@ TECH STACKS AND SKILLS
 - TryHackMe Learning Paths
   
 ---
-##SECURITY PLATFORMS
+SECURITY PLATFORMS
 
-HackTheBox
-TryHackMe
+-HackTheBox
+-TryHackMe
 ---
  Trophy Wall
 
@@ -124,7 +124,7 @@ TryHackMe
 
 ---
 
-PROJECT AND SKILL EXPERIENCE
+HIGHER EDUCATION INSTITUTE
 
 <details >
 <summary>« Prathyusha Engineering College ” Student Researcher &amp; Project Developer | 2025  Present | Tamil Nadu, India</b></summary>
