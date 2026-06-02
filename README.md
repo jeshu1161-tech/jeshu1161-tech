@@ -154,7 +154,7 @@ Work Experience
 
 |  | Achievement | Details |
 |:--:|:------------|:--------|
-|  | **B.E. CSE (Cyber Security)** | Enrolled 2025 @ Prathyusha Engineering College â€” specialized cybersecurity degree track |
+|  | **B.E. CSE (Cyber Security)** | Enrolled 2025 @ Prathyusha Engineering College specialized cybersecurity degree track |
 | | **Python Programming** | Proficient in Python with focus on scripting, automation, and security tooling |
 |  | **Linux Practitioner** | Hands-on experience with Linux systems administration and CLI tooling |
 |  | **Cybersecurity Fundamentals** | Strong foundation in networking, cryptography, and security principles |
@@ -180,14 +180,14 @@ Work Experience
  Currently Learning
 
 ```
- 🕵️Penetration Testing      Reconnaissance · Scanning · Exploitation · Post-Exploitation
- 🛜Network Security          TCP/IP Deep Dive · Firewall Config · IDS/IPS · VPN
- Linux Administration     Shell Scripting · Process Management · Privilege Escalation
- 🖥️Digital Forensics         File Carving · Log Analysis · Memory Forensics · Evidence Collection
- 👨‍💻CTF Challenges            HackTheBox · TryHackMe · PicoCTF · OverTheWire
- 🪪Python for Security       Socket Programming .automation · Exploit Scripting · Tool D
- Cryptography              Symmetric & Asymmetric Encryption · Hashing · PKI · SSL/TLS
- OWASP Top 10              Injection · Broken Auth · XSS · IDOR · Security Misconfig
+🕵️Penetration Testing      Reconnaissance · Scanning · Exploitation · Post-Exploitation
+🛜Network Security          TCP/IP Deep Dive · Firewall Config · IDS/IPS · VPN
+Linux Administration     Shell Scripting · Process Management · Privilege Escalation
+🖥️Digital Forensics         File Carving · Log Analysis · Memory Forensics · Evidence Collection
+👨‍💻CTF Challenges            HackTheBox · TryHackMe · PicoCTF · OverTheWire
+🪪Python for Security       Socket Programming .automation · Exploit Scripting · Tool D
+Cryptography              Symmetric & Asymmetric Encryption · Hashing · PKI · SSL/TLS
+OWASP Top 10              Injection · Broken Auth · XSS · IDOR · Security Misconfig
 ```
 
 ---
