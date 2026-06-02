@@ -111,13 +111,10 @@ TECH STACKS AND SKILLS
 - TryHackMe Learning Paths
   
 ---
-SECURITY PLATFORMS
+##SECURITY PLATFORMS
+
 HackTheBox
 TryHackMe
----
-CONTRIBUTION SNAKE
-![Snake animation](https://github.com/jeshu1161-tech/jeshu1161-tech/blob/output/github-contribution-grid-snake.svg)
-
 ---
  Trophy Wall
 
