@@ -186,7 +186,7 @@ Linux Administration     Shell Scripting · Process Management · Privilege Esca
 🖥️Digital Forensics         File Carving · Log Analysis · Memory Forensics · Evidence Collection
 👨‍💻CTF Challenges            HackTheBox · TryHackMe · PicoCTF · OverTheWire
 🪪Python for Security       Socket Programming .automation · Exploit Scripting · Tool D
-Cryptography              Symmetric & Asymmetric Encryption · Hashing · PKI · SSL/TLS
+Cryptography              Symmetric & Asymmetric Encryption · Hashing · PKI · SSL/TLS
 OWASP Top 10              Injection · Broken Auth · XSS · IDOR · Security Misconfig
 ```
 
