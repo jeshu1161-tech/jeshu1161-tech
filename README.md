@@ -59,8 +59,7 @@ print(me.motto())
 <br clear="right"/>
 
 ---
-
-Tech Stack & Skills
+TECH STACKS AND SKILLS
 
 **Languages**
 
@@ -181,12 +180,12 @@ Work Experience
  Currently Learning
 
 ```
- Penetration Testing      Reconnaissance · Scanning · Exploitation · Post-Exploitation
- Network Security          TCP/IP Deep Dive · Firewall Config · IDS/IPS · VPN
+ 🕵️Penetration Testing      Reconnaissance · Scanning · Exploitation · Post-Exploitation
+ 🛜Network Security          TCP/IP Deep Dive · Firewall Config · IDS/IPS · VPN
  Linux Administration     Shell Scripting · Process Management · Privilege Escalation
- Digital Forensics         File Carving · Log Analysis · Memory Forensics · Evidence Collection
-CTF Challenges            HackTheBox · TryHackMe · PicoCTF · OverTheWire
-Python for Security       Socket Programming .automation · Exploit Scripting · Tool D
+ 🖥️Digital Forensics         File Carving · Log Analysis · Memory Forensics · Evidence Collection
+ 👨‍💻CTF Challenges            HackTheBox · TryHackMe · PicoCTF · OverTheWire
+ 🪪Python for Security       Socket Programming .automation · Exploit Scripting · Tool D
  Cryptography              Symmetric & Asymmetric Encryption · Hashing · PKI · SSL/TLS
  OWASP Top 10              Injection · Broken Auth · XSS · IDOR · Security Misconfig
 ```
